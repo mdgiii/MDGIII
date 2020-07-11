@@ -1,6 +1,6 @@
 # Michael Gaither III (MDGIII)
 
-### [mdgiii.com](https://mdgiii.com)
+### [mdgiii.com](https://mdgiii.com)         [resume](https://resume.mdgiii.com)
 
 ## Stuff that I am good at
 
