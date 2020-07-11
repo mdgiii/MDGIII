@@ -5,9 +5,9 @@
 ## Stuff that I am good at
 ```
 
-- Adobe Photoshop 2020
-- Java
-- HTML/CSS
-- Linux
-- Photography
-- Windows 10
+* Adobe Photoshop 2020
+* Java
+* HTML/CSS
+* Linux
+* Photography
+* Windows 10
